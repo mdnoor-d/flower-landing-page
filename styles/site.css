@@ -48,7 +48,7 @@ body {
 .pink-flower {
   display: flex;
   height: 350px;
-  width: 310px;
+  width: 315px;
   background-color: #f2dee7;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -58,7 +58,7 @@ body {
 .red-flower {
   display: flex;
   height: 350px;
-  width: 310px;
+  width: 315px;
   background-color: #d9eff1;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -67,7 +67,7 @@ body {
 .yellow-flower {
   display: flex;
   height: 350px;
-  width: 310px;
+  width: 315px;
   background-color: #e3ebdb;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -76,19 +76,19 @@ body {
 .pf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 95px;
+  padding-left: 70px;
 }
 
 .rf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 75px;
+  padding-left: 55px;
 }
 
 .yf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 100px;
+  padding-left: 75px;
 }
 
 .help {

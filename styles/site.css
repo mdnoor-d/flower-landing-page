@@ -48,7 +48,7 @@ body {
 .pink-flower {
   display: flex;
   height: 350px;
-  width: 377px;
+  width: 363px;
   background-color: #f2dee7;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -58,7 +58,7 @@ body {
 .red-flower {
   display: flex;
   height: 350px;
-  width: 377px;
+  width: 363px;
   background-color: #d9eff1;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -67,7 +67,7 @@ body {
 .yellow-flower {
   display: flex;
   height: 350px;
-  width: 377px;
+  width: 363px;
   background-color: #e3ebdb;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -134,11 +134,13 @@ body {
   margin: 0px 160px 0px 160px;
   margin-bottom: 100px;
 }
-.social-text{
+
+.social-text {
   text-align: center;
   margin: 5px;
 }
-.social-pictures{
+
+.social-pictures {
   display: flex;
   align-items: center;
   gap: 20px;
@@ -146,29 +148,58 @@ body {
   justify-content: center;
   padding-bottom: 100px;
 }
-.s-pic1{
-width: 280px;
+
+.s-pic1 {
+  width: 280px;
 }
+
 .s-pic2 {
-width: 280px;
+  width: 280px;
 }
+
 .s-pic3 {
-width: 280px;
+  width: 280px;
 }
+
 .s-pic4 {
-width: 280px;
+  width: 280px;
 }
-.news{
-text-align: center;
-padding-top: 70px;
-padding-bottom: 100px;
-background-image: url(/images/Rectangle\ 9.png);
-background-size: cover;
-background-position: center;
-margin: 0px 160px 100px 160px;
+
+.news {
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 100px;
+  background-image: url(/images/Rectangle\ 9.png);
+  background-size: cover;
+  background-position: center;
+  margin: 0px 160px 100px 160px;
 }
-input{
+
+input {
   width: 50%;
   padding: 15px 25px;
-  margin:10px 0;
+  margin: 10px 0;
+}
+
+.sec-foot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  height: 300px;
+  margin: 0px 160px 5px 160px;
+}
+
+.f-shop {
+  color: white;
+}
+
+.f-sec-detail {
+  color: rgb(148, 138, 138);
+}
+
+.f-details {
+  color: darkgray;
+  font-size: xx-small;
 }

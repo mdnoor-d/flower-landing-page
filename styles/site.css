@@ -134,7 +134,9 @@ body {
   margin: 0px 160px 0px 160px;
   margin-bottom: 100px;
 }
-
+.insta{
+  width: 45px;
+}
 .social-text {
   text-align: center;
   margin: 5px;

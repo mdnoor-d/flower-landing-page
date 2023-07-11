@@ -48,7 +48,7 @@ body {
 .pink-flower {
   display: flex;
   height: 350px;
-  width: 350px;
+  width: 340px;
   background-color: #f2dee7;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -58,7 +58,7 @@ body {
 .red-flower {
   display: flex;
   height: 350px;
-  width: 350px;
+  width: 340px;
   background-color: #d9eff1;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -67,7 +67,7 @@ body {
 .yellow-flower {
   display: flex;
   height: 350px;
-  width: 350px;
+  width: 340px;
   background-color: #e3ebdb;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;

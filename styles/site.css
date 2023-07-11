@@ -90,3 +90,34 @@ body {
   padding-top: 100px;
   padding-left: 70px;
 }
+
+.help {
+  display: flex;
+  justify-content: center;
+  background-color: #f4f4f4;
+  margin: 0px 160px 100px 160px;
+}
+
+.delivery-img {
+  width: 50px;
+  padding: 30px 150px 0px 150px;
+}
+
+.lf-img {
+  width: 50px;
+padding: 30px 150px 0px 150px;
+}
+
+.support-img {
+  width: 50px;
+padding: 30px 150px 0px 150px;
+}
+.delivery-details{
+text-align: center;
+}
+.lf-details {
+text-align: center;
+}
+.support-details {
+text-align: center;
+}

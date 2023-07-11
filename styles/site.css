@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.h-sec{
+    display: flex;
+   justify-content: space-around;
+   background: rgba(235, 80, 120, .1);
+   margin: 0px 160px 0px 160px;
+}
+.h-pic{
+    width: 280px;
+    height: 420px;
+    padding: 50px 80px 0px 30px;
+}
+.section{
+padding: 80px 10px 100px 100px;
+}
+.sec-title{
+    font-weight: 800;
+    font-size:35px;
+}
+.btn-primary{
+border-radius: 8px;
+background-color: #f07a94;    
+padding: 12px 25px 12px 25px;
+}

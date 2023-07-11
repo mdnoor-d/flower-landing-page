@@ -48,7 +48,7 @@ body {
 .pink-flower {
   display: flex;
   height: 350px;
-  width: 320px;
+  width: 377px;
   background-color: #f2dee7;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -58,7 +58,7 @@ body {
 .red-flower {
   display: flex;
   height: 350px;
-  width: 320px;
+  width: 377px;
   background-color: #d9eff1;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -67,7 +67,7 @@ body {
 .yellow-flower {
   display: flex;
   height: 350px;
-  width: 320px;
+  width: 377px;
   background-color: #e3ebdb;
   border-top-right-radius: 200px;
   border-top-left-radius: 200px;
@@ -76,19 +76,19 @@ body {
 .pf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 67px;
+  padding-left: 95px;
 }
 
 .rf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 35px;
+  padding-left: 75px;
 }
 
 .yf {
   height: 250px;
   padding-top: 100px;
-  padding-left: 70px;
+  padding-left: 100px;
 }
 
 .help {
@@ -142,19 +142,33 @@ body {
   display: flex;
   align-items: center;
   gap: 20px;
-  margin-bottom: 0px 160px 100px 160px;
+  margin: 0px 100px 50px 100px;
   justify-content: center;
   padding-bottom: 100px;
 }
 .s-pic1{
-width: 235px;
+width: 280px;
 }
 .s-pic2 {
-width: 235px;
+width: 280px;
 }
 .s-pic3 {
-width: 235px;
+width: 280px;
 }
 .s-pic4 {
-width: 235px;
+width: 280px;
+}
+.news{
+text-align: center;
+padding-top: 70px;
+padding-bottom: 100px;
+background-image: url(/images/Rectangle\ 9.png);
+background-size: cover;
+background-position: center;
+margin: 0px 160px 100px 160px;
+}
+input{
+  width: 50%;
+  padding: 15px 25px;
+  margin:10px 0;
 }
